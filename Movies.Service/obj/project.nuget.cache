@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fssivfjr1nA=",
+  "success": true,
+  "projectFilePath": "H:\\Movies\\Movies.Service\\Movies.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rdero\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\rdero\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
