@@ -19,7 +19,7 @@
     <Import Project="$(NuGetPackageRoot)aspire.dashboard.sdk.win-x64\8.2.2\buildTransitive\Aspire.Dashboard.Sdk.win-x64.props" Condition="Exists('$(NuGetPackageRoot)aspire.dashboard.sdk.win-x64\8.2.2\buildTransitive\Aspire.Dashboard.Sdk.win-x64.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgGrpc_Tools Condition=" '$(PkgGrpc_Tools)' == '' ">C:\Users\rdero\.nuget\packages\grpc.tools\2.67.0</PkgGrpc_Tools>
+    <PkgGrpc_Tools Condition=" '$(PkgGrpc_Tools)' == '' ">C:\Users\rdero\.nuget\packages\grpc.tools\2.71.0</PkgGrpc_Tools>
     <PkgAspire_Hosting_Orchestration_win-x64 Condition=" '$(PkgAspire_Hosting_Orchestration_win-x64)' == '' ">C:\Users\rdero\.nuget\packages\aspire.hosting.orchestration.win-x64\8.2.2</PkgAspire_Hosting_Orchestration_win-x64>
     <PkgAspire_Dashboard_Sdk_win-x64 Condition=" '$(PkgAspire_Dashboard_Sdk_win-x64)' == '' ">C:\Users\rdero\.nuget\packages\aspire.dashboard.sdk.win-x64\8.2.2</PkgAspire_Dashboard_Sdk_win-x64>
   </PropertyGroup>

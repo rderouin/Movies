@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Movies\\Movies.AppHost\\Movies.AppHost.csproj": {}
+    "H:\\Movies\\src\\Movies.AppHost\\Movies.AppHost.csproj": {}
   },
   "projects": {
-    "H:\\Movies\\Movies.AppHost\\Movies.AppHost.csproj": {
+    "H:\\Movies\\src\\Movies.AppHost\\Movies.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Movies\\Movies.AppHost\\Movies.AppHost.csproj",
+        "projectUniqueName": "H:\\Movies\\src\\Movies.AppHost\\Movies.AppHost.csproj",
         "projectName": "Movies.AppHost",
-        "projectPath": "H:\\Movies\\Movies.AppHost\\Movies.AppHost.csproj",
+        "projectPath": "H:\\Movies\\src\\Movies.AppHost\\Movies.AppHost.csproj",
         "packagesPath": "C:\\Users\\rdero\\.nuget\\packages\\",
-        "outputPath": "H:\\Movies\\Movies.AppHost\\obj\\",
+        "outputPath": "H:\\Movies\\src\\Movies.AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,10 +60,22 @@
               "target": "Package",
               "version": "[8.2.2, )"
             },
+            "Aspire.Hosting.Docker": {
+              "target": "Package",
+              "version": "[8.0.0-preview.6.24327.3, )"
+            },
             "Aspire.Hosting.Orchestration.win-x64": {
               "target": "Package",
               "version": "[8.2.2, )",
               "autoReferenced": true
+            },
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.15, )"
+            },
+            "Gremlin.Net": {
+              "target": "Package",
+              "version": "[3.7.3, )"
             }
           },
           "imports": [

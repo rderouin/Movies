@@ -23,7 +23,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Movies.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e24e91258a8f88b310b6e1dffde60a4ab2d07ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d37da021fd9d3ca676ecad75d4fcb936c2a9d462")]
 [assembly: System.Reflection.AssemblyProductAttribute("Movies.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Movies.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

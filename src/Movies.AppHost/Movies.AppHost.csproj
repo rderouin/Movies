@@ -11,6 +11,10 @@
 
   <ItemGroup>
     <PackageReference Include="Aspire.Hosting.AppHost" Version="8.2.2" />
+    <PackageReference Include="Aspire.Hosting.Docker" Version="8.0.0-preview.6.24327.3" />
+    <PackageReference Include="Gremlin.Net" Version="3.7.3" />
+    <ProjectReference Include="..\Movies.Service\Movies.Service.csproj" />
+    <ProjectReference Include="..\Movies.ServiceDefaults\Movies.ServiceDefaults.csproj" />
   </ItemGroup>
 
 </Project>
